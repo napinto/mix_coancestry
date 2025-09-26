@@ -1,0 +1,51 @@
+# History files
+.Rhistory
+.Rapp.history
+
+# Session Data files
+.RData
+.Ruserdata
+
+# RStudio files
+.Rproj.user/
+
+# R package folders
+.Rcheck/
+
+# Output files
+*.csv
+*.xlsx
+*.xls
+*.pdf
+# Ignore all CSV files
+*.csv
+
+# Except FREQ_ALELICAS.csv
+!FREQ_ALELICAS.csv
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# Mac OS generated files
+.DS_Store
+
+# Thumbs.db windows system file
+Thumbs.db
+
+# Compiled source files
+*.o
+*.so
+*.dll
+
+# Manuscript intermediate files
+*.aux
+*.log
+*.out
+*.toc
+
+# Ignore all Word temporary files that start with ~
+~$*
+
+# Ignore any other system-specific files
+ehthumbs.db
